@@ -1,0 +1,12 @@
+game:pokemon:playing:1/11/17:45mins:2
+social:messages:texting:1/15/17:1hr:3
+educational:calculator:calculating:4/15/17:5mins:1
+game:clashofclans:beat:3/14/18:30mins:9
+social:facebook:poked:3/14/17:10mins:4
+educational:sat-practice:practicing:5/5/17:3hrs:8
+social:twitter:tweeting:5/22/17:20mins:4
+game:templerun:playing:5/10/17:15mins:6
+educational:googledrive:writing:5/1/17:2hrs:9
+game:redalert:level1:4/23/17:40mins:3
+social:instagram:liking-pics:1/20/19:10mins:10
+educational:cplusplus:reading:6/19/17:45mins:8
