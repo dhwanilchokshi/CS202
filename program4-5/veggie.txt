@@ -1,0 +1,5 @@
+bell pepper;
+onions;
+tomatoes;
+jalapeno;
+mushroom;
